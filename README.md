@@ -1,3 +1,4 @@
+# This project just for learning Qwik
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)

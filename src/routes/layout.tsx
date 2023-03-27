@@ -1,8 +1,7 @@
 import { component$, Slot } from '@builder.io/qwik';
 import { routeLoader$ } from '@builder.io/qwik-city';
+import Navbar from '~/components/ui/Navbar';
 
-import Header from '~/components/starter/header/header';
-import Footer from '~/components/starter/footer/footer';
 
 export const useServerTimeLoader = routeLoader$(() => {
   return {
@@ -14,12 +13,12 @@ export default component$(() => {
   return (
     <div class="page">
       <main>
-        <Header />
+        <Navbar/>
         <Slot />
       </main>
       <div class="section dark">
         <div class="container">
-          <Footer />
+          ini footer
         </div>
       </div>
     </div>
