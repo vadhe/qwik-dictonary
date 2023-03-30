@@ -1,4 +1,5 @@
 # This project just for learning Qwik
+# the idea project from [frontendmentor](https://www.frontendmentor.io/challenges/dictionary-web-app-h5wwnyuKFL)
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
